@@ -19,7 +19,7 @@
     "index.js"
   ],
   "bin": {
-    "engineml-react-scripts": "./bin/react-scripts-ts-antd.js"
+    "engineml-react-scripts": "./bin/engineml-react-scripts.js"
   },
   "dependencies": {
     "@babel/preset-react": "^7.7.0",
