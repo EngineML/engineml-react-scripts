@@ -1,4 +1,5 @@
 # Create React apps (with Typescript and antd) with no build configuration.
+⚠️This project is no longer maintained since CRA now supports typescript out of the box⚠️
 base on [react-scripts-ts@2.17.0](https://github.com/wmonk/create-react-app-typescript)
 
 ## Usage
